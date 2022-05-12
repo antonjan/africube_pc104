@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name africube_pc104-rescue)(type Legacy)(uri ${KIPRJMOD}/africube_pc104-rescue.lib)(options "")(descr ""))
+  (lib (name pc104)(type Legacy)(uri ${KIPRJMOD}/pc104.pretty/pc104.lib)(options "")(descr ""))
+)
